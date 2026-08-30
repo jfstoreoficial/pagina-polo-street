@@ -1,0 +1,9 @@
+PÁGINA DE VENDAS — POLO STREET
+
+1. Abra index.html para testar a página no navegador.
+2. Procure por:
+   const CHECKOUT_URL = "#";
+3. Troque "#" pelo link do seu checkout/pagamento.
+4. Publique a pasta em sua hospedagem (Netlify, Hostinger, Vercel etc.).
+
+A página já está responsiva para celular e desktop e usa as imagens fornecidas.
